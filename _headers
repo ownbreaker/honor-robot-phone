@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src https://honor-robot-phone.netlify.app/assets/; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; media-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'
